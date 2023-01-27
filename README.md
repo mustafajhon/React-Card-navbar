@@ -1,9 +1,6 @@
 # FridayProject-27-Jan
 
-This project is my second React Project.
-used HTML, CSS, Bootstrap, and JavaScript.
-
-# Getting Started with Create React App
+# A Simple Card with Navbar project in React
 
 ### `yarn start`
 
